@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Batdrive
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python, html, css..
-- 💞️ I’m looking to collaborate on python
+- 👀 I’m interested in Web development,Apps Development.
+- 🌱 I’m currently learning python, html, css, JavaScript, php..
+- 💞️ I’m looking to collaborate on Web development projects, python projects, App development projects.
 - 📫 How to reach me? (email: baturedauda850@gmail.com)
 
 <!---
